@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: b01fd80d7d22ad945b9c391b8a75be31
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_0
+    21300002: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_1
+    21300004: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_2
+    21300006: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_3
+    21300008: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_4
+    21300010: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_5
+    21300012: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_6
+    21300014: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_7
+    21300016: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_8
+    21300018: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_9
+    21300020: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_10
+    21300022: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_11
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_0
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 699
+        width: 54
+        height: 66
+      alignment: 9
+      pivot: {x: 2.284632, y: 0.51549006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d703cde1e01c843bf9f02ebb39dae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 699
+        width: 54
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ff19d80aae1644b8748dc39a493adc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_2
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 697
+        width: 55
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b644b105c7edc02459c354e93953c817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_3
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 598
+        width: 57
+        height: 72
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8000513364fe48440952f71fd0396b60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 600
+        width: 53
+        height: 68
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a56f57be564fc4b8d409870554649e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 601
+        width: 54
+        height: 68
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a05cc3ecb520f14199d180fb12ec6c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 314
+        width: 72
+        height: 69
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a757dfe60b450e41bcb825aa8fb43b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 314
+        width: 75
+        height: 66
+      alignment: 3
+      pivot: {x: 1, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a840dc82bff8f034cb8390de83223781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_8
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 315
+        width: 69
+        height: 66
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4effddfbe48fc3c44a1534aeca0c0778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_9
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 218
+        width: 69
+        height: 69
+      alignment: 9
+      pivot: {x: 1.8389243, y: 0.48405966}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fec98a6af27174089587a9bd990dd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_10
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 220
+        width: 69
+        height: 67
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd41fd1e2d04bdf469f3f6e99a8963cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-character-personnage-de-jeu-vido-pixel-character-sprite-5b4d5ac97379c7.599804201531796169473_11
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 221
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ffc0156840ebc3449d53f569e11f37b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1fa329b740029344496424abd72a47e1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
